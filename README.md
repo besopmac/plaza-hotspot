@@ -9,9 +9,36 @@
 - Task Runner: [Gulp](http://www.gulpjs.com/)
 - HTML Template Engine: [Pug](http://pugjs.com/api/getting-started.html)
 - CSS Preprocessor: [Stylus](http://www.stylus-lang.com/)
+- Local Server: [Browsersync](https://browsersync.io)
+
+## Estrutura de Pastas
+
+    .
+    ├── README.md
+    ├── output/
+    ├── src/
+    |   ├── icons/
+    |   ├── assets/
+    |   |   ├── img/
+    |   |   ├── js/
+    |   |   |   └── script.js
+    |   |   └── css/
+    |   |       ├── modules/
+    |   |       └── style.styl
+    |   ├── partials/
+    |   |   ├── footer.pug
+    |   |   └── header.pug
+    |   ├── layouts/
+    |   |   └── default.pug
+    |   ├── projects.pug
+    |   └── index.pug
+    ├── gulpfile.js
+    ├── package.json
+    ├── projects.json
+    ├── .editorconfig
+    └── .gitignore
 
 ## Versionamento
-
 Para manter uma melhor organização dos releases, seguimos o guia de [Versionamento Semantico 2.0.0](http://semver.org/).
 
 ## Colaboração
