@@ -4,6 +4,12 @@
 
 > Aplicação para liberar acesso à rede WiFi nas dependências do Hotel Plaza São Rafael.
 
+## Stack
+
+- Task Runner: [Gulp](http://www.gulpjs.com/)
+- HTML Template Engine: [Pug](http://pugjs.com/api/getting-started.html)
+- CSS Preprocessor: [Stylus](http://www.stylus-lang.com/)
+
 ## Versionamento
 
 Para manter uma melhor organização dos releases, seguimos o guia de [Versionamento Semantico 2.0.0](http://semver.org/).
