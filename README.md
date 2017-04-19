@@ -1,20 +1,18 @@
-# Open Source Boilerplate
+# Hotspot Plaza Hotel São Rafael
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/**/**/blob/master/LICENSE.md)
 
-> :rocket: A template to help you create open source projects more organized.
+> Aplicação para liberar acesso à rede WiFi nas dependências do Hotel Plaza São Rafael.
 
-## Versioning
+## Versionamento
 
-To keep better organization of releases we follow the [Semantic Versioning 2.0.0](http://semver.org/) guidelines.
+Para manter uma melhor organização dos releases, seguimos o guia de [Versionamento Semantico 2.0.0](http://semver.org/).
 
-## Contributing
-Find on our [roadmap](https://github.com/afonsopacifer/open-source-boilerplate/issues/1) the next steps of the project ;)
-<br>
-Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/CONTRIBUTING.md).
+## Colaboração
+Siga nosso [roadmap](https://github.com/**/**/issues/1) para os próximos passos do projeto.
 
-## History
-See [Releases](https://github.com/afonsopacifer/open-source-boilerplate/releases) for detailed changelog.
+## Histórico
+Veja [Releases](https://github.com/afonsopacifer/open-source-boilerplate/releases) para changelog detalhado.
 
-## License
-[MIT License](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md) © [Afonso Pacifer](http://afonsopacifer.com/)
+## Licença
+[MIT License](https://github.com/**/**/blob/master/LICENSE.md) © [Enter Sistemas](http://www.entersistemas.com.br/)
